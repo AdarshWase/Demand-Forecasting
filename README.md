@@ -1,6 +1,6 @@
 # Demand Forecasting:
 
-Demand forecasting is the process of predicting future sales by using historical sales data to make informed business decisions about everything from inventory planning to running flash sales. Demand forecasting helps estimate the total sales and revenue for a future period of time.
+Demand forecasting is the process of predicting future sales by using historical sales data to make informed business decisions about everything from inventory planning to running flash sales. Demand forecasting helps estimate the total sales and revenue for a future period of time. It’s important to be able to forecast customer demand so that you can prepare a budget, stock inventory, allocate resources, and update pricing strategy.
 
 **Data** : London Bike Sharing Data.<br><br>
 **Model** : A simple Bidirectional LSTM Model using TensorFlow.<br><br>
